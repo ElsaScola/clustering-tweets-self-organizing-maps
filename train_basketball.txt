@@ -1,0 +1,71 @@
+__label__basketball basket
+__label__basketball basketball
+__label__basketball jump
+__label__basketball nba
+__label__basketball Atlanta Hawks 
+__label__basketball Boston Celtics 
+__label__basketball Brooklyn Nets
+__label__basketball Charlotte Bobcats 
+__label__basketball Chicago Bulls 
+__label__basketball Cleveland Cavaliers 
+__label__basketball Dallas Mavericks 
+__label__basketball Denver Nuggets 
+__label__basketball Detroit Pistons 
+__label__basketball Golden State Warriors 
+__label__basketball Houston Rockets 
+__label__basketball Indiana Pacers 
+__label__basketball LA Clippers 
+__label__basketball LA Lakers 
+__label__basketball Memphis Grizzlies 
+__label__basketball Miami Heat 
+__label__basketball Milwaukee Bucks 
+__label__basketball Minnesota Timberwolves 
+__label__basketball New Orleans Hornets 
+__label__basketball New York Knicks 
+__label__basketball Oklahoma City Thunder 
+__label__basketball Orlando Magic 
+__label__basketball Philadelphia Sixers 
+__label__basketball Phoenix Suns 
+__label__basketball Portland Trail Blazers 
+__label__basketball Sacramento Kings 
+__label__basketball San Antonio Spurs 
+__label__basketball Toronto Raptors 
+__label__basketball Utah Jazz 
+__label__basketball Washington Wizards
+__label__others breath
+__label__others bump
+__label__others twist
+__label__others rub
+__label__others hour
+__label__others shoe
+__label__others moan
+__label__others vagabond
+__label__others gaze
+__label__others thumb
+__label__others can
+__label__others lively
+__label__others fix
+__label__others alleged
+__label__others mine
+__label__others female
+__label__others treatment
+__label__others fantastic
+__label__others poor
+__label__others scarecrow
+__label__others talented
+__label__others billowy
+__label__others rake
+__label__others deliver
+__label__others sweet
+__label__others obnoxious
+__label__others flight
+__label__others mark
+__label__others teeny-tiny
+__label__others jumbled
+__label__others school
+__label__others madly
+__label__others hug
+__label__others action
+__label__others curious
+__label__others flashy
+__label__others super

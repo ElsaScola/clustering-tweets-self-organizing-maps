@@ -1,0 +1,69 @@
+__label__football football
+__label__football soccer
+__label__football goal area
+__label__football centre circle
+__label__football corner
+__label__football field
+__label__football pitch
+__label__football goal
+__label__football goal line
+__label__football penalty arc
+__label__football penalty area
+__label__football penalty
+__label__football penalty spot
+__label__football linesman
+__label__football midfielder
+__label__football Barcelona
+__label__football Celta de Vigo
+__label__football Córdoba
+__label__football Deportivo La Coruña
+__label__football Eibar
+__label__football Elche
+__label__football Espanyol
+__label__football Getafe
+__label__football Granada
+__label__football Levante
+__label__football Málaga
+__label__football Rayo Vallecano
+__label__football Real Madrid
+__label__football Real Sociedad
+__label__football Sevilla
+__label__football Valencia
+__label__football Villarreal
+__label__others breath
+__label__others bump
+__label__others twist
+__label__others rub
+__label__others hour
+__label__others shoe
+__label__others moan
+__label__others vagabond
+__label__others gaze
+__label__others thumb
+__label__others can
+__label__others lively
+__label__others fix
+__label__others alleged
+__label__others mine
+__label__others female
+__label__others treatment
+__label__others fantastic
+__label__others poor
+__label__others scarecrow
+__label__others talented
+__label__others billowy
+__label__others rake
+__label__others deliver
+__label__others sweet
+__label__others obnoxious
+__label__others flight
+__label__others mark
+__label__others teeny-tiny
+__label__others jumbled
+__label__others school
+__label__others madly
+__label__others hug
+__label__others action
+__label__others curious
+__label__others flashy
+__label__others super
